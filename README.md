@@ -2,13 +2,6 @@
 
 Welcome to the **Multiplication Game**! This is a simple, interactive game where you can test your mental multiplication skills while racing against the clock.
 
-## Features
-
-- **Two 2-Digit Numbers**: The game generates two random 2-digit numbers for you to multiply mentally.
-- **Timer**: The timer starts as soon as the problem is displayed, and you must enter the correct answer before the timer stops.
-- **Feedback**: If you get the answer correct, you will be congratulated with the time it took to answer. If you're incorrect, the correct answer will be shown.
-- **Colorized Notifications**: The words "Correct!" and "Incorrect!" are displayed in **green** and **red**, respectively, for better visual feedback.
-
 ## How to Play
 
 1. **Click "Start"**: This will display the multiplication problem.
