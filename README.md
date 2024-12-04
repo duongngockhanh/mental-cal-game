@@ -42,4 +42,4 @@ Here are the two main windows of the game:
 3. Run the game by executing the Python script:
 
    ```bash
-   python multiplication_game.py
+   python game.py
